@@ -132,5 +132,7 @@ springboot激活 actuator 需要增加 spring-hateoas的依赖；
         "rel": "trace",
         "href": "http://localhost:8080/trace"
     }]
+    
+    
 }
 ---
